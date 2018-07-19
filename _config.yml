@@ -9,9 +9,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Francois Nguyen"
+title                    : "Duke Minh Long Nguyen"
 title_separator          : "-"
-name                     : "Dr. Francois Nguyen"
+name                     : "Duke Minh Long Nguyen"
 description              : "Math- Statistics and Emergent Technology"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -84,9 +84,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Francois Nguyen"
+  name             : "Duke Minh Long Nguyen"
   avatar           : "/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Math Statistics and Data Analytics"
+  bio              : "Political Science, History and Philosophy"
   location         : "Midwest, USA"
   email            :
   uri              :
