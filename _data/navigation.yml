@@ -2,20 +2,14 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Teaching & Learning"
-    url: /markdown/
-  - title: "About"
-    url: /Tennis/
-  - title: "Teaching & Learning"
-    url: /markdown/
-  - title: "About"
-    url: /about/
   - title: "Academics"
     url: /markdown/
-  - title: "About"
-    url: /about/
-  - title: "Travels"
+  - title: "Tennis"
+    url: /Tennis/
+  - title: "Musics & Arts"
     url: /markdown/
+  - title: "Cookinng & Travels"
+    url: /about/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
