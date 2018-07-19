@@ -1,9 +1,9 @@
 ---
 layout: posts
 permalink: /markdown/
-title: "Teaching and Learning"
+title: "Music-arts"
 author_profile: true
 header:
-  image: "/images/p4.jpg"
+  image: "/images/danang2.jpg"
 ---
 
