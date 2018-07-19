@@ -4,60 +4,26 @@ date: 2018-01-28
 tags: [machine learning, data science, neural network]
 header:
   image: "/images/perceptron/danang1.jpg"
-excerpt: "College of Saint Schorlastica"
+excerpt: "College of Saint Scholastica"
 mathjax: "true"
 ---
 
-# H1 Heading
+# High School Varsity
+Varsity Tennis since 7th Grade
+2015 MN State Tennis (10th grade):
+•	Team Title 2nd Place
+•	Individual Division: #1 Doubles
+2016 MN State Tennis (11th grade):
+•	Team Title 4th Place
+•	Individual Division: #1 Doubles
+Sports:
+2017 Mn State Tennis (11th grade):
+•	Team Title 4th Place
+•	Individual Division: #1 Doubles
+2018 Mn State Tennis (12th grade):
+•	Team Title 4th Place
+•	Individual Division: #1 Doubles
+Individual double Third Place
 
-## H2 Heading
-
-### H3 Heading
-
-Here's some basic text.
-
-And here's some *italics*
-
-Here's some **bold** text.
-
-What about a [link](https://github.com/dataoptimal)?
-
-Here's a bulleted list:
-* First item
-+ Second item
-- Third item
-
-Here's a numbered list:
-1. First
-2. Second
-3. Third
-
-Python code block:
-```python
-    import numpy as np
-
-    def test_function(x, y):
-      z = np.sum(x,y)
-      return z
-```
-
-R code block:
-```r
-library(tidyverse)
-df <- read_csv("some_file.csv")
-head(df)
-```
-
-Here's some inline code `x+y`.
-
-Here's an image:
-<img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg" alt="linearly separable data">
-
-Here's another image using Kramdown:
-![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg)
-
-Here's some math:
-
-$$z=x+y$$
-
-You can also put it inline $$z=x+y$$
+# Colegiate Tennis
+. More to come...
