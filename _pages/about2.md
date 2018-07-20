@@ -4,8 +4,9 @@ permalink: /about2/
 header:
   image: "/images/danang1.jpg"
 ---
-## Page2
-Dr. Francois Nguyen has been an Instructor at Saint Paul Technical College for 24 years, teaching Math, ESL, AutoCAD and Emerging Technology. He provides training opportunities for adults who want to have better careers in the global community. He has coordinated the St. Paul Connections Program, which provides urban high school students the opportunity to explore Vocational Education. He is a strong advocate for technology equity. Francois is also a prominent leader in the Asian community of Minnesota, and has served as an Asian leader in both non-profit and governmental agencies related to educational policy. He received the Lieutenant Governor's Award for Community Service in 1993. 
-In 1994 he received the Pioneer Partner Leadership Award for Innovator in Educational Technology from The Great Lakes Governors Council. 
-Francois received his B.A. from St. Thomas University with a major in Chemistry and minor in Geology. He received his M.Ed. from University of La Verne with a major in Education. He received a certificate in Preparing Administrate Responsibility from the University of Minnesota. He also participated in the Leadership for the Common Good program at the Hubert Humphrey Institute for Public Affairs. 
-Francois was born and raised in Vietnam. He came to the United States in the 70's and keeps strong ties with his native country. He is very proud of his family. He has a loving wife and three children.
+## On my way to College
+
+All my life I've lived in the same place, gone to the same school, and had the same friends. The very idea of moving to another state and city gives me excitement with a bitter aftertaste of nostalgia. The first chapter of my life, I figured how to get by and I just don't want to turn the page yet, but this period of introspection has brought ugly truths to the forefront of my mind. The reality of my morality becomes brutally clear as every day fades into the past. Regret stains my heartstrings with it's malicious melody, and I can't bare it. I've come to realize that the world is not waiting for me, it's running away from me like frightened prey from an unfamiliar sound. It seems like all this time has been spent learning has been time invested in the future, but it wouldn't be fair to amount these memories into nothing more than building blocks in my cathedral. I've already built something I don't want to forget. The friends and community I'm leaving behind will never leave my character. They've molded my journey as much as I did, and I hope I can find another one filled with amazing people. When tethered to a cruel world the best we can do isn't to hope. When faced with death in the distance we live. We sing and dance across velvet stages, we write and paint on blank canvasses, but most importantly we dream.
+
+ Duke Nguyen Minnesota
+
