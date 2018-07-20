@@ -5,48 +5,20 @@ header:
   image: "/images/duke1.jpg"
 ---
 
-Academic Interests:
+### Academic Interests:
 
 Political Science, History, Philosophy
-
-​
-
-Sports:
-
+### Sports:
 Varsity Tennis
-
-​
-
-Art:
-
+### Art:
 Advanced Painting
-
-​
-
-Music:
-
+### Music:
 First Viola Chair, Honors Orchestra
-
-​
-
-Foreign Exchange:
-
+### Foreign Exchange:
 French trip exchange and student host
-
-​
-
-Volunteer Work:
-
+### Volunteer Work:
 Vietnam mission trip with LATO Charity
-
-​
-
-Work Experience:
-
+### Work Experience:
 Pasta Bar Cook at a local Italian restaurant
-
-​
-
-Ethnicity:
-
+### Ethnicity:
 Half-Vietnamese, Half-White
