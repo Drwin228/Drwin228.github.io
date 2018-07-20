@@ -9,4 +9,4 @@ header:
 
 Please click on the photo to view my photos in Vietnam.
 
-[Trip to Vietnam]](https://dukeminhlongnguyen.wixsite.com/duke/photos)
+[Trip to Vietnam](https://dukeminhlongnguyen.wixsite.com/duke/photos)
