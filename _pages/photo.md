@@ -1,6 +1,6 @@
 ---
 title: "Photos & Videos"
-permalink: /about3/
+permalink: /photo/
 header:
   image: "/images/p1.jpg"
 ---
