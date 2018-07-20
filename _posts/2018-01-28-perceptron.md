@@ -1,7 +1,7 @@
 ---
 title: "Tennis"
 date: 2018-01-28
-tags: [machine learning, data science, neural network]
+tags: [tennis History, Political Science]
 header:
   image: "/images/perceptron/danang1.jpg"
 excerpt: "College of Saint Scholastica"
