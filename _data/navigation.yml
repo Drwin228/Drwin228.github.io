@@ -3,13 +3,11 @@ main:
   - title: "About"
     url: /about/
   - title: "Academics"
-    url: /markdown/
-  - title: "Tennis"
-    url: /Tennis/
-  - title: "Musics & Arts"
-    url: /markdown/
-  - title: "Cookinng & Travels"
     url: /about/
+  - title: "Photos & Videos"
+    url: /about/
+  - title: "Blogs"
+    url: /markdown/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
