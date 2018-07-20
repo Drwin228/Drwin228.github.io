@@ -1,7 +1,7 @@
 ---
 layout: posts
 permalink: /markdown/
-title: "Duke I am...
+title: "testing...
 author_profile: true
 header:
   image: "/images/danang2.jpg"
