@@ -1,7 +1,7 @@
 ---
 layout: posts
 permalink: /markdown/
-title: "Music-arts"
+title: "Duke I am..."
 author_profile: true
 header:
   image: "/images/danang2.jpg"
