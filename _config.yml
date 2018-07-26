@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Duke Minh Long Nguyen"
-  avatar           : "/images/duke2.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Political Science, History and Philosophy"
   location         : "Midwest, USA"
   email            :
