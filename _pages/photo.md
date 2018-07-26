@@ -15,3 +15,5 @@ Please click on the photo to view my photos in Vietnam.
 
 [Tennis Video](https://dukeminhlongnguyen.wixsite.com/duke)
 
+## Photo Gallery
+[Photo Gallery](htps://dukeminhlongnguyen.wixsite.com/duke/paintings
